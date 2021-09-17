@@ -1,2 +1,2 @@
 # mtmscollab
-this is a collab with my interest group!
+this is a collab with my school interest group!
